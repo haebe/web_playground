@@ -1,2 +1,1 @@
-# private_homepage
-Personal private home
+# personal web page to play around
